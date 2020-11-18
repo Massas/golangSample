@@ -1,12 +1,6 @@
 package main
-
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, World!")
+    fmt.Println("Hello,world")
 }
-
-/*
-$ go run hello.go
-Hello, World!
-*/
